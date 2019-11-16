@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository 
+
+hi this is a hello world thing that i do so thati  learn how to use githiub
